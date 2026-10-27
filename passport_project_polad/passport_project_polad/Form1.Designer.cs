@@ -1,4 +1,4 @@
-﻿namespace winform_evez
+﻿namespace passport_project_polad
 {
     partial class Form1
     {
